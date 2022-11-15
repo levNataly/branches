@@ -1,0 +1,11 @@
+СТРУКТУРА БАГ РЕПОРТАЖ
+1 Короткое описание/ Sammary
+2 Проект/ Project
+3 Компонент приложения/ Component
+4 Номер версии/ Version
+5 Серьезность/Severity
+6 Приоритет/ Priority
+7 Шаги воспроизведения/ Steps to reproduce
+8 Фактический результат/ Actual result
+9 Ожидаемый результат/ Expected result
+10 Дополнения/ Additional information
